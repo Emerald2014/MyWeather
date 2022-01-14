@@ -1,7 +1,7 @@
 package ru.kudesnik.myweather
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import ru.kudesnik.myweather.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
